@@ -178,5 +178,425 @@
     "word": "Profound",
     "meaning": "Very great or intense; showing deep insight",
     "example": "The book had a profound impact on my understanding of history."
+  },
+  {
+    "id": 31,
+    "word": "Adept",
+    "meaning": "Highly skilled or proficient at something",
+    "example": "She is adept at solving complex mathematical problems."
+  },
+  {
+    "id": 32,
+    "word": "Ambivalent",
+    "meaning": "Having mixed feelings or contradictory ideas about something",
+    "example": "He felt ambivalent about moving to a new city for work."
+  },
+  {
+    "id": 33,
+    "word": "Arduous",
+    "meaning": "Involving or requiring strenuous effort; difficult",
+    "example": "Climbing the mountain was an arduous task."
+  },
+  {
+    "id": 34,
+    "word": "Astute",
+    "meaning": "Having or showing sharp judgment; clever",
+    "example": "The astute investor predicted the market trends accurately."
+  },
+  {
+    "id": 35,
+    "word": "Cohesive",
+    "meaning": "Forming a united whole",
+    "example": "The team was cohesive and worked well together on the project."
+  },
+  {
+    "id": 36,
+    "word": "Conspicuous",
+    "meaning": "Easily seen or noticed; attracting attention",
+    "example": "Her bright red jacket made her conspicuous in the crowd."
+  },
+  {
+    "id": 37,
+    "word": "Contrite",
+    "meaning": "Feeling or expressing remorse; sorry",
+    "example": "He was contrite after realizing his mistake."
+  },
+  {
+    "id": 38,
+    "word": "Copious",
+    "meaning": "Abundant in supply or quantity",
+    "example": "She took copious notes during the lecture."
+  },
+  {
+    "id": 39,
+    "word": "Cursory",
+    "meaning": "Hasty and not thorough",
+    "example": "He gave the report a cursory glance before the meeting."
+  },
+  {
+    "id": 40,
+    "word": "Decisive",
+    "meaning": "Settling an issue; having the ability to make decisions quickly",
+    "example": "Her decisive leadership led the team to victory."
+  },
+  {
+    "id": 41,
+    "word": "Deft",
+    "meaning": "Skillful and quick in action",
+    "example": "The chef’s deft movements impressed all the guests."
+  },
+  {
+    "id": 42,
+    "word": "Eccentric",
+    "meaning": "Unconventional and slightly strange",
+    "example": "The artist was known for his eccentric fashion sense."
+  },
+  {
+    "id": 43,
+    "word": "Empathetic",
+    "meaning": "Showing the ability to understand and share feelings of others",
+    "example": "She was empathetic towards the victims of the disaster."
+  },
+  {
+    "id": 44,
+    "word": "Exemplary",
+    "meaning": "Serving as a desirable model; outstanding",
+    "example": "His exemplary conduct earned him the employee of the year award."
+  },
+  {
+    "id": 45,
+    "word": "Fastidious",
+    "meaning": "Very attentive to detail; meticulous",
+    "example": "The fastidious editor corrected every small error in the manuscript."
+  },
+  {
+    "id": 46,
+    "word": "Fervent",
+    "meaning": "Having or showing passionate intensity",
+    "example": "She was a fervent supporter of animal rights."
+  },
+  {
+    "id": 47,
+    "word": "Flamboyant",
+    "meaning": "Tending to attract attention because of exuberance or style",
+    "example": "His flamboyant personality made him stand out at parties."
+  },
+  {
+    "id": 48,
+    "word": "Frugal",
+    "meaning": "Economical in use or expenditure; thrifty",
+    "example": "Living a frugal lifestyle helped him save money."
+  },
+  {
+    "id": 49,
+    "word": "Gregarious",
+    "meaning": "Fond of company; sociable",
+    "example": "The gregarious host entertained everyone at the party."
+  },
+  {
+    "id": 50,
+    "word": "Hapless",
+    "meaning": "Unfortunate; unlucky",
+    "example": "The hapless traveler missed his flight due to traffic."
+  },
+  {
+    "id": 51,
+    "word": "Iconic",
+    "meaning": "Widely recognized and well-established",
+    "example": "The Eiffel Tower is an iconic symbol of Paris."
+  },
+  {
+    "id": 52,
+    "word": "Illicit",
+    "meaning": "Forbidden by law, rules, or custom",
+    "example": "The police cracked down on illicit activities in the city."
+  },
+  {
+    "id": 53,
+    "word": "Imminent",
+    "meaning": "About to happen",
+    "example": "The dark clouds suggested that a storm was imminent."
+  },
+  {
+    "id": 54,
+    "word": "Impartial",
+    "meaning": "Treating all rivals or disputants equally; fair",
+    "example": "The judge was impartial in making her decision."
+  },
+  {
+    "id": 55,
+    "word": "Incessant",
+    "meaning": "Continuing without pause or interruption",
+    "example": "The incessant noise from construction disturbed the residents."
+  },
+  {
+    "id": 56,
+    "word": "Indignant",
+    "meaning": "Feeling anger at unfair treatment",
+    "example": "She was indignant when accused of cheating."
+  },
+  {
+    "id": 57,
+    "word": "Indomitable",
+    "meaning": "Impossible to subdue or defeat",
+    "example": "His indomitable spirit inspired everyone around him."
+  },
+  {
+    "id": 58,
+    "word": "Irascible",
+    "meaning": "Easily angered",
+    "example": "The irascible coach shouted at players for minor mistakes."
+  },
+  {
+    "id": 59,
+    "word": "Judicious",
+    "meaning": "Having, showing, or done with good judgment",
+    "example": "She made a judicious decision after reviewing all the facts."
+  },
+  {
+    "id": 60,
+    "word": "Lament",
+    "meaning": "To express sorrow, regret, or unhappiness",
+    "example": "He lamented the loss of his childhood home."
+  },
+  {
+    "id": 61,
+    "word": "Magnanimous",
+    "meaning": "Very generous or forgiving",
+    "example": "The magnanimous king forgave his enemies."
+  },
+  {
+    "id": 62,
+    "word": "Malevolent",
+    "meaning": "Having or showing a wish to do evil to others",
+    "example": "The villain had a malevolent look in his eyes."
+  },
+  {
+    "id": 63,
+    "word": "Malleable",
+    "meaning": "Easily influenced or shaped",
+    "example": "Children’s minds are malleable at a young age."
+  },
+  {
+    "id": 64,
+    "word": "Mediocre",
+    "meaning": "Of only average quality; not very good",
+    "example": "The meal was mediocre and not worth the price."
+  },
+  {
+    "id": 65,
+    "word": "Metamorphosis",
+    "meaning": "A complete change of form or nature",
+    "example": "The caterpillar underwent metamorphosis into a butterfly."
+  },
+  {
+    "id": 66,
+    "word": "Nonchalant",
+    "meaning": "Feeling or appearing casually calm and relaxed",
+    "example": "He gave a nonchalant shrug when asked about the issue."
+  },
+  {
+    "id": 67,
+    "word": "Obsolete",
+    "meaning": "No longer produced or used; out of date",
+    "example": "Typewriters are now considered obsolete technology."
+  },
+  {
+    "id": 68,
+    "word": "Omnipotent",
+    "meaning": "Having unlimited power; able to do anything",
+    "example": "The king was considered omnipotent in his kingdom."
+  },
+  {
+    "id": 69,
+    "word": "Ostentatious",
+    "meaning": "Designed to impress or attract notice",
+    "example": "Her ostentatious jewelry caught everyone’s eye."
+  },
+  {
+    "id": 70,
+    "word": "Paradoxical",
+    "meaning": "Seemingly absurd or self-contradictory",
+    "example": "It was paradoxical that the richest man was the unhappiest."
+  },
+  {
+    "id": 71,
+    "word": "Perfunctory",
+    "meaning": "Carried out with minimum effort or reflection",
+    "example": "He gave a perfunctory nod without listening carefully."
+  },
+  {
+    "id": 72,
+    "word": "Pertinent",
+    "meaning": "Relevant or applicable to a particular matter",
+    "example": "She asked questions that were pertinent to the discussion."
+  },
+  {
+    "id": 73,
+    "word": "Plausable",
+    "meaning": "Seeming reasonable or probable",
+    "example": "His explanation for the mistake was plausible."
+  },
+  {
+    "id": 74,
+    "word": "Poignant",
+    "meaning": "Evoking a keen sense of sadness or regret",
+    "example": "The movie’s ending was deeply poignant."
+  },
+  {
+    "id": 75,
+    "word": "Predicament",
+    "meaning": "A difficult, unpleasant, or embarrassing situation",
+    "example": "She found herself in a predicament when her car broke down."
+  },
+  {
+    "id": 76,
+    "word": "Prolific",
+    "meaning": "Producing much fruit or work; highly productive",
+    "example": "The prolific author published five novels in a year."
+  },
+  {
+    "id": 77,
+    "word": "Prudent",
+    "meaning": "Acting with or showing care and thought for the future",
+    "example": "It is prudent to save money for emergencies."
+  },
+  {
+    "id": 78,
+    "word": "Quaint",
+    "meaning": "Attractively unusual or old-fashioned",
+    "example": "They stayed in a quaint cottage in the countryside."
+  },
+  {
+    "id": 79,
+    "word": "Quintessential",
+    "meaning": "Representing the most perfect or typical example",
+    "example": "She was the quintessential student, always diligent and kind."
+  },
+  {
+    "id": 80,
+    "word": "Reclusive",
+    "meaning": "Avoiding the company of others; solitary",
+    "example": "The reclusive writer rarely gave interviews."
+  },
+  {
+    "id": 81,
+    "word": "Refined",
+    "meaning": "Elegant and cultured in appearance or behavior",
+    "example": "He had a refined taste in art and music."
+  },
+  {
+    "id": 82,
+    "word": "Reluctant",
+    "meaning": "Unwilling and hesitant",
+    "example": "She was reluctant to speak in front of the class."
+  },
+  {
+    "id": 83,
+    "word": "Remorseful",
+    "meaning": "Filled with regret or guilt",
+    "example": "He was remorseful after breaking his friend’s phone."
+  },
+  {
+    "id": 84,
+    "word": "Resilient",
+    "meaning": "Able to recover quickly from difficulties",
+    "example": "The resilient athlete returned to competition after injury."
+  },
+  {
+    "id": 85,
+    "word": "Sagacious",
+    "meaning": "Having or showing keen mental discernment; wise",
+    "example": "The sagacious leader guided the country through difficult times."
+  },
+  {
+    "id": 86,
+    "word": "Scrupulous",
+    "meaning": "Diligent, thorough, and extremely attentive to details",
+    "example": "The scrupulous accountant checked every transaction carefully."
+  },
+  {
+    "id": 87,
+    "word": "Spontaneous",
+    "meaning": "Performed or occurring as a result of a sudden impulse",
+    "example": "Their spontaneous trip to the mountains was exciting."
+  },
+  {
+    "id": 88,
+    "word": "Stalwart",
+    "meaning": "Loyal, reliable, and hardworking",
+    "example": "He was a stalwart supporter of the charity organization."
+  },
+  {
+    "id": 89,
+    "word": "Subtle",
+    "meaning": "Delicate and precise; not obvious",
+    "example": "The artist used subtle shades to create depth in the painting."
+  },
+  {
+    "id": 90,
+    "word": "Superfluous",
+    "meaning": "Unnecessary, especially through being more than enough",
+    "example": "The essay had superfluous details that distracted from the main point."
+  },
+  {
+    "id": 91,
+    "word": "Taciturn",
+    "meaning": "Reserved or uncommunicative in speech",
+    "example": "The taciturn student rarely participated in class discussions."
+  },
+  {
+    "id": 92,
+    "word": "Tenable",
+    "meaning": "Able to be maintained or defended against attack or objection",
+    "example": "The lawyer presented a tenable argument in court."
+  },
+  {
+    "id": 93,
+    "word": "Tenuous",
+    "meaning": "Very weak or slight; insubstantial",
+    "example": "His connection to the company was tenuous at best."
+  },
+  {
+    "id": 94,
+    "word": "Tranquil",
+    "meaning": "Free from disturbance; calm",
+    "example": "The tranquil lake reflected the mountains perfectly."
+  },
+  {
+    "id": 95,
+    "word": "Transient",
+    "meaning": "Lasting only for a short time; temporary",
+    "example": "The transient beauty of sunset amazed everyone."
+  },
+  {
+    "id": 96,
+    "word": "Treacherous",
+    "meaning": "Dangerous or deceptive",
+    "example": "The icy roads were treacherous for drivers."
+  },
+  {
+    "id": 97,
+    "word": "Utopian",
+    "meaning": "Idealistic; aiming for a perfect society",
+    "example": "He had a utopian vision of a world without poverty."
+  },
+  {
+    "id": 98,
+    "word": "Venerable",
+    "meaning": "Accorded a great deal of respect, especially because of age or wisdom",
+    "example": "The venerable professor was admired by all his students."
+  },
+  {
+    "id": 99,
+    "word": "Vindicate",
+    "meaning": "Clear someone of blame or suspicion",
+    "example": "The evidence served to vindicate the accused man."
+  },
+  {
+    "id": 100,
+    "word": "Vivacious",
+    "meaning": "Attractive, lively, and animated",
+    "example": "Her vivacious personality lit up the room."
   }
 ]
