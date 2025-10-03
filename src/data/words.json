@@ -1,0 +1,182 @@
+[
+  {
+    "id": 1,
+    "word": "Explicit",
+    "meaning": "Clearly stated or shown; leaving nothing implied",
+    "example": "The teacher gave explicit instructions for the assignment."
+  },
+  {
+    "id": 2,
+    "word": "Obnoxious",
+    "meaning": "Extremely unpleasant or offensive",
+    "example": "His obnoxious behavior at the party annoyed everyone."
+  },
+  {
+    "id": 3,
+    "word": "Atrocious",
+    "meaning": "Shockingly bad or brutal",
+    "example": "The weather was atrocious, with heavy rain and strong winds."
+  },
+  {
+    "id": 4,
+    "word": "Eloquent",
+    "meaning": "Fluent and persuasive in speaking or writing",
+    "example": "Her eloquent speech moved the entire audience to tears."
+  },
+  {
+    "id": 5,
+    "word": "Enigmatic",
+    "meaning": "Mysterious and difficult to understand",
+    "example": "The enigmatic smile on the painting has puzzled viewers for centuries."
+  },
+  {
+    "id": 6,
+    "word": "Resilient",
+    "meaning": "Able to recover quickly from difficulties",
+    "example": "The resilient community rebuilt after the devastating flood."
+  },
+  {
+    "id": 7,
+    "word": "Meticulous",
+    "meaning": "Showing great attention to detail; very careful",
+    "example": "The scientist was meticulous in recording all experimental data."
+  },
+  {
+    "id": 8,
+    "word": "Pragmatic",
+    "meaning": "Dealing with things sensibly and realistically",
+    "example": "She took a pragmatic approach to solving the budget problem."
+  },
+  {
+    "id": 9,
+    "word": "Ephemeral",
+    "meaning": "Lasting for a very short time",
+    "example": "The beauty of cherry blossoms is ephemeral, lasting only a few weeks."
+  },
+  {
+    "id": 10,
+    "word": "Benevolent",
+    "meaning": "Well-meaning and kindly",
+    "example": "The benevolent stranger helped the lost child find their way home."
+  },
+  {
+    "id": 11,
+    "word": "Ubiquitous",
+    "meaning": "Present, appearing, or found everywhere",
+    "example": "Smartphones have become ubiquitous in modern society."
+  },
+  {
+    "id": 12,
+    "word": "Ambiguous",
+    "meaning": "Open to more than one interpretation; unclear",
+    "example": "His ambiguous answer left everyone confused about his position."
+  },
+  {
+    "id": 13,
+    "word": "Tenacious",
+    "meaning": "Persistent and determined",
+    "example": "Her tenacious spirit helped her overcome numerous obstacles."
+  },
+  {
+    "id": 14,
+    "word": "Verbose",
+    "meaning": "Using more words than needed; wordy",
+    "example": "The verbose report could have been summarized in two pages."
+  },
+  {
+    "id": 15,
+    "word": "Candid",
+    "meaning": "Truthful and straightforward; frank",
+    "example": "I appreciate your candid feedback about my performance."
+  },
+  {
+    "id": 16,
+    "word": "Diligent",
+    "meaning": "Hardworking and careful in one's work",
+    "example": "The diligent student reviewed her notes every evening."
+  },
+  {
+    "id": 17,
+    "word": "Serendipity",
+    "meaning": "The occurrence of fortunate events by chance",
+    "example": "Meeting my business partner at that cafe was pure serendipity."
+  },
+  {
+    "id": 18,
+    "word": "Voracious",
+    "meaning": "Having an insatiable appetite for something",
+    "example": "She is a voracious reader, finishing several books each week."
+  },
+  {
+    "id": 19,
+    "word": "Mundane",
+    "meaning": "Lacking interest or excitement; ordinary",
+    "example": "He wanted to escape his mundane routine and travel the world."
+  },
+  {
+    "id": 20,
+    "word": "Pensive",
+    "meaning": "Engaged in deep thought, often with sadness",
+    "example": "She sat by the window with a pensive expression on her face."
+  },
+  {
+    "id": 21,
+    "word": "Formidable",
+    "meaning": "Inspiring fear or respect through power or skill",
+    "example": "The team faced a formidable opponent in the championship."
+  },
+  {
+    "id": 22,
+    "word": "Lucid",
+    "meaning": "Expressed clearly; easy to understand",
+    "example": "Despite his illness, his explanation was remarkably lucid."
+  },
+  {
+    "id": 23,
+    "word": "Pervasive",
+    "meaning": "Spreading widely throughout an area or group",
+    "example": "The smell of fresh bread was pervasive throughout the bakery."
+  },
+  {
+    "id": 24,
+    "word": "Austere",
+    "meaning": "Severe in manner or appearance; strict",
+    "example": "The monk lived an austere life with few possessions."
+  },
+  {
+    "id": 25,
+    "word": "Inevitable",
+    "meaning": "Certain to happen; unavoidable",
+    "example": "Change is inevitable in any growing organization."
+  },
+  {
+    "id": 26,
+    "word": "Nuance",
+    "meaning": "A subtle difference in meaning or expression",
+    "example": "Understanding cultural nuances is essential for effective communication."
+  },
+  {
+    "id": 27,
+    "word": "Zealous",
+    "meaning": "Having great energy or enthusiasm for a cause",
+    "example": "The zealous volunteers worked tirelessly for the campaign."
+  },
+  {
+    "id": 28,
+    "word": "Impeccable",
+    "meaning": "Perfect; without flaws",
+    "example": "Her impeccable taste in fashion made her a style icon."
+  },
+  {
+    "id": 29,
+    "word": "Capricious",
+    "meaning": "Given to sudden changes of mood or behavior",
+    "example": "The capricious weather made it difficult to plan outdoor events."
+  },
+  {
+    "id": 30,
+    "word": "Profound",
+    "meaning": "Very great or intense; showing deep insight",
+    "example": "The book had a profound impact on my understanding of history."
+  }
+]
